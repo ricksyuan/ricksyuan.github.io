@@ -24,6 +24,8 @@ To verify that the links are pointing properly, the following two commands shoul
 dig rickyuan.com +noall +answer
 dig ricksyuan.github.io +noall +answer
 ```
+## Skills
+SVG icons pulled from https://www.iconfinder.com/search/?q=html5&from=homepage.
 
 ### References
 https://help.github.com/en/articles/setting-up-an-apex-domain-and-www-subdomain
@@ -31,6 +33,6 @@ https://help.github.com/en/articles/setting-up-an-apex-domain
 
 ## Usage
 
-Open `index.html` in a web browser
+In the working directory, run `open index.html` to open index.html in a web browser.
 
 Run `npm install` and then `npx gulp dev` to watch changes
